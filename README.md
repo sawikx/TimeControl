@@ -1,4 +1,4 @@
-#C# WPF TimeControl
+# C# WPF TimeControl
 
 User interface (UI) component designed for precise time entry and editing, down to milliseconds. The control provides an intuitive and flexible user experience through multiple data input methods.
 
