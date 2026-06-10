@@ -13,9 +13,6 @@ using System.Windows.Shapes;
 
 namespace TimeControl
 {
-    /// <summary>
-    /// Logika interakcji dla klasy TimeControl.xaml
-    /// </summary>
     public partial class TimeControl : UserControl
     {
         public TimeControl()
